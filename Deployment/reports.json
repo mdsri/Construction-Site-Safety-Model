@@ -1,0 +1,18 @@
+[
+    {
+        "id": "hadeel_156@hotmail.com",
+        "date_time": "2024-12-23 13:52:01",
+        "wearing": [
+            "Hardhat"
+        ],
+        "missing_items": [
+            "Mask",
+            "Safety Vest"
+        ],
+        "violations": [
+            "NO-Hardhat",
+            "NO-Safety Vest"
+        ],
+        "status": "Non-Compliant"
+    }
+]
